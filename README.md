@@ -5,7 +5,7 @@
 
 ## [Live Preview](https://mrsounak286.github.io/tourindia/)
 [![Tour India Preview](./pictures/welcoming-page.png)](https://mrjatinchauhan.github.io/tourindia/)
-[![Glimpse Preview](./pictures/parts-glimpse.png)](https://mrjatinchauhan.github.io/tourindia/)
+[![Glimpse Preview](./pictures/parts-glimpse.png)](https//sounak286.github.io/tourindia/)
 
 ## Wireframe
 ![Tour India Wireframe](./pictures/wireframe-pc.png)
